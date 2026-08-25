@@ -13,4 +13,8 @@ Interaktywny model obsługi niezależnego warsztatu samochodowego. Pokazuje peł
 
 Otwórz `index.html` w przeglądarce.
 
+## Działająca prezentacja
+
+[Otwórz WorkshopFlow 360](https://lukaszst-cz.github.io/workshopflow-360/)
+
 Projekt jest częścią głównego [portfolio operacyjnego](https://github.com/lukaszst-cz/operations-office-portfolio).
