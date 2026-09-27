@@ -50,3 +50,13 @@ jobs:
               print("\n".join(missing))
               sys.exit(1)
           PY
+
+      - name: Check portal contract
+        run: |
+          grep -Fq "PUBLICZNA SYMULACJA" portal/index.html
+          grep -Fq 'aria-label="Numer zlecenia"' portal/index.html
+          grep -Fq 'aria-label="Szukaj zlecenia"' portal/index.html
+          grep -Fq 'aria-label="Filtr statusu"' portal/index.html
+          for role in "Klient" "Doradca serwisowy" "Planista" "Mechanik" "Diagnostyka" "Magazyn części" "Kontrola jakości" "Administracja / faktury" "Kierownik, pełny widok"; do
+            grep -Fq "$role" portal/index.html
+          done
