@@ -18,3 +18,10 @@ Otwórz `index.html` w przeglądarce.
 [Otwórz WorkshopFlow 360](https://lukaszst-cz.github.io/workshopflow-360/)
 
 Projekt jest częścią głównego [portfolio operacyjnego](https://github.com/lukaszst-cz/operations-office-portfolio).
+
+
+## Powiązany projekt
+
+Auto Naprawa KSeF Demo rozwija wątek dokumentów, faktur i obsługi klienta wokół warsztatu.
+
+https://github.com/lukaszst-cz/auto-naprawa-ksef-demo
