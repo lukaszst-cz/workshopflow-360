@@ -31,3 +31,18 @@ Projekt jest częścią głównego [portfolio operacyjnego](https://github.com/l
 Auto Naprawa KSeF Demo rozwija wątek dokumentów, faktur i obsługi klienta wokół warsztatu.
 
 https://github.com/lukaszst-cz/auto-naprawa-ksef-demo
+
+
+## Zakres demonstracji
+
+WorkshopFlow 360 pokazuje proces operacyjny warsztatu i podział informacji między rolami. Publiczny portal:
+- korzysta wyłącznie z danych syntetycznych;
+- nie ma prawdziwego logowania ani serwerowego RBAC;
+- zapisuje lokalnie tylko wybór roli i demonstracyjną decyzję klienta;
+- nie wysyła danych do zewnętrznej bazy.
+
+Auto Naprawa KSeF Demo rozwija ten sam kontekst o stronę klienta, faktury i demonstracyjny przebieg KSeF.
+
+## Kontrola jakości
+
+GitHub Actions sprawdza składnię JavaScript, lokalne linki i assety, obecność wszystkich 9 ról, komunikat o publicznej symulacji oraz podstawowe etykiety dostępności portalu.
