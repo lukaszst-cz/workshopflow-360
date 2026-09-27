@@ -17,6 +17,12 @@ Otwórz `index.html` w przeglądarce.
 
 [Otwórz WorkshopFlow 360](https://lukaszst-cz.github.io/workshopflow-360/)
 
+## Szybki podgląd
+
+- [Widok klienta](https://lukaszst-cz.github.io/workshopflow-360/portal/?role=client)
+- [Widok kierownika](https://lukaszst-cz.github.io/workshopflow-360/portal/?role=manager)
+- [Case study](https://lukaszst-cz.github.io/workshopflow-360/case-study.html)
+
 Projekt jest częścią głównego [portfolio operacyjnego](https://github.com/lukaszst-cz/operations-office-portfolio).
 
 
