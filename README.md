@@ -46,3 +46,13 @@ Auto Naprawa KSeF Demo rozwija ten sam kontekst o stronę klienta, faktury i dem
 ## Kontrola jakości
 
 GitHub Actions sprawdza składnię JavaScript, lokalne linki i assety, obecność wszystkich 9 ról, komunikat o publicznej symulacji oraz podstawowe etykiety dostępności portalu.
+
+---
+
+## ☕ Wsparcie / Support
+
+Jeśli ten projekt Ci się podoba lub jest dla Ciebie przydatny, możesz dobrowolnie wesprzeć jego dalszy rozwój.  
+If you like this project or find it useful, you can support its further development.
+
+**[☕ Postaw Naleśnikowi++ kawę / Buy Me a Coffee](https://buymeacoffee.com/nalesnik_plus_plus)**
+
